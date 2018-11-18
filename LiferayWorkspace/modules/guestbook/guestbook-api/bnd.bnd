@@ -1,0 +1,9 @@
+Bundle-Name: guestbook-api
+Bundle-SymbolicName: com.mahesh.docs.guestbook.api
+Bundle-Version: 1.0.0
+Export-Package:\
+	com.mahesh.docs.guestbook.exception,\
+	com.mahesh.docs.guestbook.model,\
+	com.mahesh.docs.guestbook.service,\
+	com.mahesh.docs.guestbook.service.persistence
+-includeresource: META-INF/service.xml=../guestbook-service/service.xml

@@ -1,0 +1,4 @@
+Bundle-Name: ExampleLiferayMVCWeb
+Bundle-SymbolicName: com.mahesh.liferaymvcdxp.tutorial
+Bundle-Version: 1.0.0
+Export-Package: com.mahesh.liferaymvcdxp.tutorial.constants
